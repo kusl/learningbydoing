@@ -46,3 +46,6 @@ what I did today:
     one for my new commit, and one for the old commit that is already merged 
 
 why? 
+the git repository is public at 
+https://github.com/kusl/learningbydoing
+if you need more information 
