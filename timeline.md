@@ -19,7 +19,8 @@ and the result was this
 
 ```csv
 CommitHash,ParentHashes,Branches,Timestamp,Author,Subject
-"0c32171db3d55471ceb31ce81587643e7e14b455","b0c09bf37529a03deb416a1cb72c60ac37e33030","HEAD -> feat/kushal/2026-05-21-13-22-57, origin/feat/kushal/2026-05-21-13-22-57","2026-05-21T13:28:00-04:00","kushal","add question"
+"40a95d52fa8dee76cf9f26e5778d4c0b56a7856b","0c32171db3d55471ceb31ce81587643e7e14b455","HEAD -> feat/kushal/2026-05-21-13-22-57","2026-05-21T13:31:56-04:00","kushal","update timeline"
+"0c32171db3d55471ceb31ce81587643e7e14b455","b0c09bf37529a03deb416a1cb72c60ac37e33030","origin/feat/kushal/2026-05-21-13-22-57","2026-05-21T13:28:00-04:00","kushal","add question"
 "b0c09bf37529a03deb416a1cb72c60ac37e33030","9ffab94c88361e898cab781ddc0c5a870851986d","origin/release-1, release-1","2026-05-21T13:18:23-04:00","Kushal","add timestamp 2026-05-21-13-16-30 (#4)"
 "a4925fdfdec1a6606d83f680d967380b0453380f","9ffab94c88361e898cab781ddc0c5a870851986d","origin/feat/kushal/2026-05-21-13-16-30, feat/kushal/2026-05-21-13-16-30","2026-05-21T13:17:39-04:00","kushal","add timestamp 2026-05-21-13-16-30"
 "1cea263f3f80b1a276734f5ac804fb6c5652d1a3","9fa34333f7ee3e59a16ac364b09a3ec05779449d","origin/development","2026-05-21T13:15:16-04:00","Kushal","add timestamp 2026-05-21-13-12-43 (#2) (#3)"
